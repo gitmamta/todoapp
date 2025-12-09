@@ -1,6 +1,6 @@
 import { StrictMode } from "react"
 import { createRoot } from "react-dom/client"
-import { RouterProvider, createBrowserRouter } from "react-router-dom"
+import { RouterProvider, createBrowserRouter } from "react-router";
 import App from "./App"
 import Login from "./components/login/Login"
 import Todo from "./components/todo/Todo"
